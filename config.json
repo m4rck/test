@@ -9,6 +9,7 @@
     "autosave": true,
     "cpu": true,
     "opencl": false,
+    "background": true,
     "cuda": false,
     "pools": [
         {
